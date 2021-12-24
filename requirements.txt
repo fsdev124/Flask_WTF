@@ -1,0 +1,10 @@
+Flask==1.1.2
+flask-appconfig>=0.10
+flask-bootstrap
+flask-nav
+flask-debug
+flask-wtf
+requests==2.25.1
+sshtunnel==0.4.0
+mysql-connector-python==8.0.23
+PyMySQL==1.0.2
